@@ -2,7 +2,7 @@
 name = "fnostudyqr"
 version = "0.2.0"
 edition = "2024"
-repository = "https://github.com/LERCO-FNO/fnostudyqr-rs"
+repository = "https://github.com/Vojtech-Benda/fnostudyqr-rs"
 license = "Apache-2.0"
 readme = "README.md"
 
